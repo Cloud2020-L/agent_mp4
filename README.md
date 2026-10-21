@@ -4,8 +4,8 @@
 
 ## 演示视频
 
-![作品演示截图](./demo-cover.jpg)
+https://github.com/user-attachments/assets/02412c17-3b82-4775-8168-c66bdb8b03f1
 
-**[下载完整演示视频（MP4，8.38 MB）](./演示视频-GitHub版.mp4?raw=true)**
+视频时长约 2 分 59 秒。
 
-视频时长约 2 分 59 秒，下载后即可播放。
+[下载完整演示视频（MP4，8.38 MB）](./演示视频-GitHub版.mp4?raw=true)
