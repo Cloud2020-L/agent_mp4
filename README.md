@@ -4,8 +4,8 @@
 
 ## 演示视频
 
-https://github.com/Cloud2020-L/agent_mp4/raw/refs/heads/main/%E6%BC%94%E7%A4%BA%E8%A7%86%E9%A2%91-GitHub%E7%89%88.mp4
+![作品演示截图](./demo-cover.jpg)
 
-[下载演示视频](./演示视频-GitHub版.mp4?raw=true)
+**[下载完整演示视频（MP4，8.38 MB）](./演示视频-GitHub版.mp4?raw=true)**
 
-视频时长：约 2 分 59 秒。
+视频时长约 2 分 59 秒，下载后即可播放。
