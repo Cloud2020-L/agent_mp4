@@ -1,6 +1,6 @@
 # agent_mp4
 
-个人作品演示视频。
+本项目实现了基于 LangGraph 的 Agent 工作流，并结合结构化检索、Chroma 向量检索、OpenSearch 关键词检索和 Rerank，为回答提供原文出处。
 
 ## 演示视频
 
